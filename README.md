@@ -39,22 +39,7 @@ The overlay viewer is intended for visual quality control. Outputs should be rev
 
 
 ## Download and Run
-# 1. Download under this link: - OwnCloud mirror: https://owncloud.damutten.ch/s/nFnt5R6Gg9q69kd
-
-2. Alternatively, download the split GitHub release files: 
-
-This release is distributed as a split Windows executable bundle. Download all of these assets into the same folder:
-
-- `MeningiomaSegmentation_v1.1_20260604_windows.zip.part01`
-- `MeningiomaSegmentation_v1.1_20260604_windows.zip.part02`
-- `UNPACKING.txt`
-- `SHA256SUMS.txt`
-
-Reassemble the archive using the instructions in `UNPACKING.txt`, extract the reconstructed ZIP, and run:
-
-```powershell
-.\MeningiomaSegmentation\MeningiomaSegmentation.exe
-```
+#Download under this link: - OwnCloud mirror: https://owncloud.damutten.ch/s/nFnt5R6Gg9q69kd
 
 The `.exe` must remain inside the extracted `MeningiomaSegmentation` folder together with its `_internal` runtime folder.
 
