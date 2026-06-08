@@ -4,7 +4,8 @@ Windows desktop application for research use in MRI-based meningioma segmentatio
 
 This software is intended for academic, non-commercial research use only. It is not a certified medical device and must not be used as the sole basis for clinical decision-making.
 
-![Meningioma Segmentation GUI showing loaded MRI views, segmentation overlays, mask legend, log output, and resource monitors](https://github.com/raffaele7/GUI/releases/download/meningioma-v1.1/meningioma_gui.png)
+![Meningioma Segmentation GUI showing loaded MRI views, segmentation overlays, mask legend, log output, and resource monitors]
+<img width="1008" height="752" alt="meningioma_gui" src="https://github.com/user-attachments/assets/8449efa5-446b-4a10-8a92-643979a00338" />
 
 ## What the GUI Provides
 
