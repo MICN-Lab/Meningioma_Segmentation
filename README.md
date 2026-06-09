@@ -52,18 +52,6 @@ The `Allow low-RAM run` checkbox is off by default. With the default safety beha
 
 This option is intended only for expert users on constrained research workstations. Enabling it can increase the risk of system slowdown, process failure, or out-of-memory termination.
 
-## Validation
-
-The packaged executable was built and smoke-tested on Windows. Validation included:
-
-- source syntax checks
-- GUI startup smoke test
-- PyInstaller one-folder executable build
-- packaged executable smoke test
-- checksum generation
-- split archive byte-count verification
-
-These checks verify package integrity and startup behavior. They do not constitute clinical validation.
 
 ## Citation
 
